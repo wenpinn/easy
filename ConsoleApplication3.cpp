@@ -1,6 +1,7 @@
-// ConsoleApplication3.cpp : 定義主控台應用程式的進入點。
-//
-
+/*********
+ * author wwen-pinn fang
+ * version 1.0
+*********/
 #include "stdafx.h"
 
 #include <iostream>
